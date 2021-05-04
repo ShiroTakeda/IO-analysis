@@ -3,11 +3,16 @@ Filename:       README.md
 Author:         Shiro Takeda
 e-mail          <shiro.takeda@gmail.com>
 First-written:	<2021/05/03>
-Time-stamp:	<2021-05-04 21:25:24 st>
+Time-stamp:	<2021-05-04 21:29:24 st>
 -->
 
 GAMS, R, Excel による産業連関分析
 ==============================
+
++ Excel、GAMS、R で同じような産業連関分析をおこなうプログラムです。
+  + 産業連関分析といっても本格的なものではなく、簡単なものを試しにやってみた程度のものです。
++ Excel は VBA は使っていません。  
+
 
 ## ファイル
 
