@@ -3,7 +3,7 @@ Filename:       README.md
 Author:         Shiro Takeda
 e-mail          <shiro.takeda@gmail.com>
 First-written:	<2021/05/03>
-Time-stamp:	<2021-05-04 21:29:24 st>
+Time-stamp:	<2022-06-10 08:59:15 st>
 -->
 
 GAMS, R, Excel による産業連関分析
@@ -11,24 +11,24 @@ GAMS, R, Excel による産業連関分析
 
 + Excel、GAMS、R で同じような産業連関分析をおこなうプログラムです。
   + 産業連関分析といっても本格的なものではなく、簡単なものを試しにやってみた程度のものです。
-+ Excel は VBA は使っていません。  
-
++ Excel は VBA は使っていません。
++ 簡単な説明 → [「Excel と R と GAMS で産業連関分析 \- 武田史郎のウェブログ」](https://shiro-takeda.hateblo.jp/entry/%3Fp%3D4134)
 
 ## ファイル
 
 | ファイル                                   | 説明                                                           |
 | :----------------------------------------- | :------------------------------------------------------------- |
-| `IO_analysis.xlsx`                         | Excel で産業連関分析をしたファイル                                               |
-| `IO_analysis_1.gms`                        | GAMS で産業連関分析をしたファイル (1)                                             |
-| `IO_analysis_2.gms`                        | GAMS で産業連関分析をしたファイル (2)                                             |
-| `IO_analysis_3.gms`                        | GAMS で産業連関分析をしたファイル (3)                                             |
-| `sample_IO_data.xlsx`                      | これは GAMS で利用しているデータが入ったファイル                                |
-| `IO_analysis_1.r`                        | R で産業連関分析をしたファイル (1)                                             |
-| `IO_analysis_2.r`                        | R で産業連関分析をしたファイル (2)                                             |
-| `IO_analysis_3.r`                        | R で産業連関分析をしたファイル (3)                                             |
-| `sample_IO_data_1.txt`                     | `IO_analysis_1.r` で利用しているデータ                          |
-| `sample_IO_data_2.txt`                     | `IO_analysis_2.r` で利用しているデータ                          |
-| `sample_IO_data_3.txt`                     | `IO_analysis_3.r` で利用しているデータ                          |
+| `IO_analysis.xlsx`                         | Excel で産業連関分析をしたファイル                             |
+| `IO_analysis_1.gms`                        | GAMS で産業連関分析をしたファイル (1)                          |
+| `IO_analysis_2.gms`                        | GAMS で産業連関分析をしたファイル (2)                          |
+| `IO_analysis_3.gms`                        | GAMS で産業連関分析をしたファイル (3)                          |
+| `sample_IO_data.xlsx`                      | これは GAMS で利用しているデータが入ったファイル               |
+| `IO_analysis_1.r`                          | R で産業連関分析をしたファイル (1)                             |
+| `IO_analysis_2.r`                          | R で産業連関分析をしたファイル (2)                             |
+| `IO_analysis_3.r`                          | R で産業連関分析をしたファイル (3)                             |
+| `sample_IO_data_1.txt`                     | `IO_analysis_1.r` で利用しているデータ                         |
+| `sample_IO_data_2.txt`                     | `IO_analysis_2.r` で利用しているデータ                         |
+| `sample_IO_data_3.txt`                     | `IO_analysis_3.r` で利用しているデータ                         |
 | `README.md`                                | このファイルです。                                             |
 
 
